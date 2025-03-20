@@ -1,0 +1,38 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos de ambiente
+.env
+.venv
+venv/
+ENV/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do projeto
+pdfs_para_converter/*
+!pdfs_para_converter/.gitkeep
+txts_convertidos/*
+!txts_convertidos/.gitkeep 
